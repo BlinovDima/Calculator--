@@ -1,0 +1,15 @@
+﻿  MyForm.cpp
+C:\Users\t8995\source\repos\ProWin\ProWin\MyForm.h(501,46): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\t8995\source\repos\ProWin\ProWin\MyForm.h(502,23): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\t8995\source\repos\ProWin\ProWin\MyForm.h(509,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\t8995\source\repos\ProWin\ProWin\MyForm.h(539,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ProWin.vcxproj -> C:\Users\t8995\source\repos\ProWin\x64\Debug\ProWin.exe

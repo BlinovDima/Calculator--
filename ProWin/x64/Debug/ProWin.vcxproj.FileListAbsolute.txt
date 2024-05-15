@@ -1,0 +1,3 @@
+C:\Users\t8995\source\repos\ProWin\ProWin\x64\Debug\ProWin.vcxproj.AssemblyReference.cache
+C:\Users\t8995\source\repos\ProWin\ProWin\x64\Debug\ProWin.MyForm.resources
+C:\Users\t8995\source\repos\ProWin\ProWin\x64\Debug\ProWin.vcxproj.GenerateResource.cache
